@@ -84,7 +84,7 @@
     "cmdk": "^1.1.1",
     "date-fns": "^4.1.0",
     "dotenv": "^17.2.2",
-    "drizzle-orm": "^0.44.5",
+    "drizzle-orm": "^0.45.2",
     "embla-carousel-react": "^8.6.0",
     "esbuild": "^0.28.0",
     "eslint-import-resolver-typescript": "^4.4.4",
@@ -150,7 +150,7 @@
     "vite-plugin-monaco-editor": "^1.1.0",
     "vite-plugin-node-polyfills": "^0.24.0",
     "vitest": "^3.2.4",
-    "wrangler": "4.80.0"
+    "wrangler": "4.81.0"
   },
   "prettier": {
     "singleQuote": true,
