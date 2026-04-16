@@ -90,7 +90,7 @@
     "eslint-import-resolver-typescript": "^4.4.4",
     "eslint-plugin-import": "^2.32.0",
     "framer-motion": "^12.23.12",
-    "hono": "^4.12.12",
+    "hono": "^4.12.14",
     "html2canvas-pro": "^1.5.11",
     "input-otp": "^1.4.2",
     "jose": "^5.10.0",
@@ -150,7 +150,7 @@
     "vite-plugin-monaco-editor": "^1.1.0",
     "vite-plugin-node-polyfills": "^0.24.0",
     "vitest": "^3.2.4",
-    "wrangler": "4.81.0"
+    "wrangler": "4.81.1"
   },
   "prettier": {
     "singleQuote": true,
